@@ -15,8 +15,20 @@ site: [http://su0.io](http://su0.io)
 
 
 
+### Developer at Yandex Market
+2020-12-01 - Present
+- Designing of sharding of in-memory cache service.
+- Conducted developer interviews
+
+
+
+Key skills: Java 8/11, Spring, Spring Boot, Yt, YQL, Sandbox, Python
+
+
+
+
 ### Developer at Yandex
-2019-08-29 - Present
+2019-08-29 - 2020-11-30
 - Development and support of various components of the Yandex.Travel service
 - Participation in quarterly planning
 - Developed an inventory plugin for ansible for an internal orchestration system
