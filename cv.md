@@ -9,6 +9,10 @@ site: [http://su0.io](http://su0.io)
 
 
 
+telegram: [kirillsulim](https://t.me/kirillsulim)
+
+
+
 
 
 ## Work experience
