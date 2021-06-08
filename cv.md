@@ -19,10 +19,11 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
-### Developer at Yandex Market
+### Senior Developer at Yandex Market
 2020-12-01 - Present
 - Designing of sharding of in-memory cache service.
-- Conducted developer interviews
+- Decomposing and estimating projects.
+- Conducting leetcode-style developers interview.
 
 
 
