@@ -23,13 +23,12 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 2020-12-01 - Present
 - Designed sharding of in-memory cache service.
 - Estimated and made decomposition of Orcale to Postres migration of department. A special tool was developed to help to decompose project, update tickets, keep track on statuses of tables and generate progress reports.
-- Conducted daily meetings, 1+1 meetings with subordinates. Taked part in report meetings of department.
+- Leading of a team of 4 people. Conducted daily meetings, 1+1 meetings with subordinates. Taked part in report meetings of department.
 - Conducted leetcode-style developer interviews. Conducted final interviews. 4 developers and 5 interns was hired after final interviews.
-- Leading of a team of 4 people. Conducting 1-1 meetings.
 
 
 
-Key skills: Java 8/11, Spring, Spring Boot, Yt, YQL, Sandbox, Python
+Key skills: Java 8/11, Spring, Spring Boot, Python, Oracle, Postgres, Clickhouse, Yt, YQL, Sandbox, Scrum, Agile, Leetcode inteview
 
 
 
