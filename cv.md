@@ -19,8 +19,19 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
+### Senior Developer at Yandex
+2022-01-01 - Present
+- Analized size of protobuf messages descriptor
+
+
+
+Key skills: Python, Protobuf, Go
+
+
+
+
 ### Senior Developer at Yandex Market
-2020-12-01 - Present
+2020-12-01 - 2022-01-01
 - Designed sharding of in-memory cache service.
 - Estimated and made decomposition of Orcale to Postres migration of department. A special tool was developed to help to decompose project, update tickets, keep track on statuses of tables and generate progress reports.
 - Leading of a team of 4 people. Conducted daily meetings, 1+1 meetings with subordinates. Taked part in report meetings of department.
