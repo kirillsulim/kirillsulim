@@ -31,7 +31,7 @@ Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka
 
 
 ### Senior Developer at Yandex
-2022-02-11 - None
+2022-01-01 - 2022-02-11
 - Reseacrh for generation of protobuf descriptors and its storage in database.
 
 
