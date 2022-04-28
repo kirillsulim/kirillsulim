@@ -25,7 +25,7 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
-Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka
+Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka, Protobuf, Open API, Gitlab CI
 
 
 
