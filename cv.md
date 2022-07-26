@@ -17,13 +17,14 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
-### Lead Developer at Tinkoff
+### Senior Developer at Tinkoff
 2022-02-28 - Present
 - Designing and developing broker backend.
+- Conducted daily SCRUM meetings.
 
 
 
-Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka, Protobuf, Open API, Gitlab CI
+Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka, Protobuf, gRPC, Open API, Gitlab CI
 
 
 
@@ -34,7 +35,7 @@ Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka, Protobuf, Open API,
 
 
 
-Key skills: Python, Go, Protobuf, GRPC, Jupyter
+Key skills: Python, Go, Protobuf, gRPC, Jupyter
 
 
 
@@ -62,7 +63,7 @@ Key skills: Java 8/11, Spring, Spring Boot, Python, Oracle, Postgres, Clickhouse
 
 
 
-Key skills: Java 11, Spring, Spring Boot, Yt, YQL, Sandbox, Python, Team City
+Key skills: Java 11, Spring, Spring Boot, Yt, YQL, Sandbox, Python, Protobuf, gRPC, Team City
 
 
 
