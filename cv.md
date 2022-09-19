@@ -17,8 +17,19 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
+### Senior Developer at VK
+2022-09-12 - Present
+- Developing a VK video backend.
+
+
+
+Key skills: Java 17
+
+
+
+
 ### Senior Developer at Tinkoff
-2022-02-28 - Present
+2022-02-28 - 2022-09-09
 - Designing and developing broker backend.
 - Conducted daily SCRUM meetings.
 
