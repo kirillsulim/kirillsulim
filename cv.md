@@ -10,20 +10,18 @@ email: [kirillsulim@gmail.com](mailto:kirillsulim@gmail.com)
 telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
-
-
-
 ## Work experience
 
 
 
 ### Senior Developer at VK
-2022-09-12 - Present
+2022-09-12 - 2023-05-12
 - Developing a VK video backend.
+- Developing a VK video backend for data transfer.
 
 
 
-Key skills: Java 17
+Key skills: Java 17, Ant, Gradle, PHP, JavaScript
 
 
 
