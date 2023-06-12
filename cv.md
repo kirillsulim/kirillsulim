@@ -18,7 +18,11 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 ### Senior Developer at VK
 2022-09-12 - 2023-05-12
-- Developing a VK video backend for data transfer.
+Take part in development of pipeline with user watched videos data.
+
+- Developing a VK video backend and frontend for data transfer.
+- Conducted interviews.
+- Created wiki section to onboard new employees.
 
 
 
@@ -29,6 +33,8 @@ Key skills: Java 17, Ant, Gradle, PHP, JavaScript
 
 ### Senior Developer at Tinkoff
 2022-02-28 - 2022-09-09
+Designing architecture and developing broker backend.
+
 - Conducted daily SCRUM meetings and sprint-retro meetings.
 - Developed and adjusted system requirements with team system analyst.
 
@@ -41,6 +47,8 @@ Key skills: Java 17, Spring, Spring Boot, PostgreSQL, Kafka, Protobuf, gRPC, Ope
 
 ### Team Lead at Yandex Market
 2020-12-01 - 2021-12-31
+Lead a team of 5 developers and 5 interns on an Oracle to Postgres migration project  according to Agile methodology.
+
 - Set up Agile-development process in team.
 - Estimated and made decomposition of Orcale to Postres migration of department. A special tool was developed to  help to decompose project, update tickets, keep track on statuses of tables and generate progress reports.
 - Conducted daily SCRUM meetings and 1+1 meetings with subordinates. Took part in reporting meetings of department.
@@ -56,6 +64,8 @@ Key skills: Java 8/11, Spring, Spring Boot, Python, Oracle, Postgres, Clickhouse
 
 ### Developer at Yandex
 2019-08-29 - 2020-11-30
+Development and support of various components of the Yandex.Travel service.
+
 - Participation in quarterly planning
 - Developed an inventory plugin for ansible for an internal orchestration system
 - Implemented a project to generate static pages for cities.  A simulated annealing algorithm was used to generate cross-links.
@@ -69,6 +79,8 @@ Key skills: Java 11, Spring, Spring Boot, Yt, YQL, Sandbox, Python, Protobuf, gR
 
 ### CTO at LLC My Stand
 2019-05-01 - 2019-06-30
+Take part in creating development related business-processes of the company.
+
 - Developed a system of grades for QA specialists.
 - Developed a regulation and a project evaluation system adapted to the needs of the company.
 - Compiled a list of the company's problems and possible solutions.
@@ -81,6 +93,8 @@ Key skills: Java 11, Spring, Spring Boot, Yt, YQL, Sandbox, Python, Protobuf, gR
 
 ### Software engineer at SKB Kontur
 2018-06-01 - 2019-03-30
+Designed and developed a system for transferring observability data (metrics, logs and trace) based on Kafka  with custom binary protocol. We used Kafka Streams and Kafka consumer for data transfer and Zookeeper as a  configuration and metadata storage. Elasticsearch, Cassandra, Graphite and Sentry was among terminal data storage.
+
 - Carried out the collection of requirements for several components of the system and compiled the  design document based on the collected requirements.
 - The developed system withstood a maximum load of 30 MB / sec (up to 30,000 RPS) on one node.  Total load per cluster reached 100,000 RPS.
 - Developed a test task for trainees and an automatic system for checking it. The verification system allowed  to avoid manual checking of compliance of test items with technical requirements.
@@ -98,6 +112,8 @@ Key skills: Java 8, multithreading, Undertow, Kafka, Cassandra, Docker, Zookeepe
 
 ### Java developer at Yandex
 2015-08-25 - 2018-05-30
+Participated in the development and design of API for mobile applications and partners. API service used an asynchronous HTTP client based on Netty library.
+
 - Configured a data transfer system between Map-Reduce systems based on Airflow
 - Developed Map-Reduce tasks for segmentation of the Yandex.Market audience
 - Conducted 12 initial developer interviews
@@ -112,6 +128,7 @@ Key skills: Java 8, Spring, Netty, Gradle, Oracle SQL, Hadoop, Map-reduce, Pytho
 
 ### Junior Researcher at Ural Federal University
 2014-09-01 - 2015-06-30
+Worked on visualization of mathematical model of heart cell as part of scientific research.
 - Developed a program that simulates a heart cell in C# with WinForms.
 - Consulting students and postgraduates on application design, infrastructure configuration etc.
 
@@ -124,6 +141,7 @@ Key skills: C#, WinForms, PostSharp
 
 ### Java developer at Bank24.ru
 2013-12-01 - 2014-09-01
+Participated in the development of the internet bank and the knopka.com service.
 - Developed frontend and backend of bank services and knopka.com
 - Designed and developed a C++ service that transfers data from 1С accounting database to Oracle database through  the bank's JSON-API. Implemented CI for this service in Jenkins.
 
