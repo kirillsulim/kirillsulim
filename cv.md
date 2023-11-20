@@ -16,6 +16,23 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
+### Senior Developer at hh.ru
+2023-07-05 - Present
+
+
+Architecture and development of web-services of hh.ru
+
+
+
+- Architecture and development of Gosuslugi integration
+
+
+
+Key skills: Java 17, Spring, Hibernate, Maven, Python
+
+
+
+
 ### Senior Developer at VK
 2022-09-12 - 2023-05-12
 
