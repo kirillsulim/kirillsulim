@@ -16,8 +16,28 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
+### Senior Developer at moneta.ru
+2024-01-11 - Present
+
+
+Deveopment and support of moneta.ru
+
+
+
+- Designed a scheme guideline for interaction between services via Kafka
+- Designed REST interface of service with OpenAPI
+- Participated in PCI DSS audit as a project specialist
+- Conducted tecnical analysts interview   
+
+
+
+Key skills: Java 20, Spring, Spring boot, OpenAPI, Oracle, Postgres
+
+
+
+
 ### Senior Developer at hh.ru
-2023-07-05 - Present
+2023-07-05 - 2023-12-29
 
 
 Architecture and development of web-services of hh.ru
