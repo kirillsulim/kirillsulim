@@ -16,22 +16,27 @@ telegram: [kirillsulim](https://t.me/kirillsulim)
 
 
 
-### Senior Developer at moneta.ru
+### Tech Lead at moneta.ru
 2024-01-11 - Present
 
 
-Deveopment and support of moneta.ru
+Techical leading of deveopment and support of moneta.ru
 
 
 
-- Designed a scheme guideline for interaction between services via Kafka
-- Designed REST interface of service with OpenAPI
-- Participated in PCI DSS audit as a project specialist
-- Conducted tecnical analysts interview   
+- Architecture & System Design: Developed a C4 model for payment services (Context, Container, and partial Component levels). Based on it, defined the strategy and roadmap for decomposing the payment monolith.
+- Architecture & System Design: Established Kafka and Protobuf guidelines for message schemas with auto-generated documentation. Enabled cross-team data exchange based on these standards.
+- Development Practices & Tooling: Implemented Liquibase for database schema versioning and management.
+- Development Practices & Tooling: Modernized CI pipeline by integrating static analysis (Checkstyle, PMD, Spotbugs), Testcontainers with Postgres in Docker, and adopting GitFlow for releases.
+- Development Practices & Tooling: Initiated migration to Nexus for artifact storage, replacing Maven Central and local folders. Improved CI build stability.
+- Team & Process Management: Introduced Definition of Ready and Definition of Done, established quarterly planning and retrospectives.
+- Team & Process Management: Led an experimental ML project with two interns (Python ML model + Spring Boot for data preprocessing).
+- Team & Process Management: Created specifications, technical tasks, and guidelines for various team projects.
+- Team & Process Management: Participated in hiring developers and analysts, conducted over 20 interviews.
 
 
 
-Key skills: Java 20, Spring, Spring boot, OpenAPI, Oracle, Postgres
+Key skills: Java 20, Spring, Spring boot, OpenAPI, Oracle, Postgres, Temporal, Testcontainers, C4
 
 
 
